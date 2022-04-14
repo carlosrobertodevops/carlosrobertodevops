@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Carlos Roberto CEO of optydev-io.xyz</h1>
-<h3 align="center">The Master of Software Engineering and DevOps</h3>
+<h3 align="center"> (Me) Master of Software Engineering and DevOps</h3>
 
 - 💬 Ask me about **devops, clouds, Software Engineering frontend, backend, security, software architect, good practices!**
 

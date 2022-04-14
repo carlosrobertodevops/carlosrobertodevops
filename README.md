@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 <h3 align="center">The Master of Software Engineering and DevOps</h3>
 
 - 🔭 I’m currently working on [udemy](https://www.udemy.com/user/tenroberto2011/)
+- 🔭 I’m currently working on [linkedin](https://www.linkedin.com/in/tencarlosroberto1974/)
 - 👨‍💻 All of my tutorials are available at [https://optydev-io.xyz](https://optydev-io.xyz)
 - 💬 Ask me about **devops, Software Engineering frontend, backend, security, software architect, good practices!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/optydev.io" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-512.png" alt="abc_cordova" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCaA6KIbCHhg4_Te1ef-ilZA" target="_blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/12069381451556105347-512.png" alt="ucidttyn-u8oda8ylibwy3ww" height="40" width="40" /></a>
+<a href="https://instagram.com/optydev.io" target="_blank">
+<img align="center" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-512.png" alt="abc_cordova" height="40" width="40" />
+</a>
+<a href="https://www.youtube.com/channel/UCaA6KIbCHhg4_Te1ef-ilZA" target="_blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/12069381451556105347-512.png" alt="ucidttyn-u8oda8ylibwy3ww" height="40" width="40" />
+</a>
 </p>
 
 <!--

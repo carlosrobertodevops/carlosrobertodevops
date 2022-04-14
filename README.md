@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/optydev.io" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagran/instagran-original-wordmark.svg" alt="abc_cordova" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original-wordmark.svg" alt="abc_cordova" height="40" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/tencarlosroberto1974/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="ucidttyn-u8oda8ylibwy3ww" height="40" width="40" />
 </a>

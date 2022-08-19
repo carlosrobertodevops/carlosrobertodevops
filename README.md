@@ -13,59 +13,61 @@
 
 <h4> Cloud Computing and Skills</h4>
 <span>
-  <img src="https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=aws&logoColor=black">
-  <img src="https://img.shields.io/badge/AZURE-FCC624?style=for-the-badge&logo=azurecloud&logoColor=black">
-  <img src="https://img.shields.io/badge/GCP-FCC624?style=for-the-badge&logo=google%20cloud%20plataform&logoColor=black">
-  <img src="https://img.shields.io/badge/OCP-0078D6?style=for-the-badge&logo=ocp&logoColor=white">
-  <img src="https://img.shields.io/badge/IBM_CLOUD-3DDC84?style=for-the-badge&logo=ibmcloud&logoColor=white">
-  <img src="https://img.shields.io/badge/WMWare_Cloud-E95420?style=for-the-badge&logo=wmwarecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Hashcorp-FF2D20?style=for-the-badge&logo=hashcorp&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=aws&logoColor=black">
+  <img src="https://img.shields.io/badge/AZURE-563D7C?style=for-the-badge&logo=azurecloud&logoColor=black">
+  <img src="https://img.shields.io/badge/GCP-563D7C?style=for-the-badge&logo=google%20cloud%20plataform&logoColor=black">
+  <img src="https://img.shields.io/badge/OCP-563D7C?style=for-the-badge&logo=ocp&logoColor=white">
+  <img src="https://img.shields.io/badge/IBM_CLOUD-563D7C?style=for-the-badge&logo=ibmcloud&logoColor=white">
+  <img src="https://img.shields.io/badge/WMWare_Cloud-563D7C?style=for-the-badge&logo=wmwarecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Hashcorp-563D7C?style=for-the-badge&logo=hashcorp&logoColor=white">
 </span>
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=go&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=dart&logoColor=black"> 
-  <img src="https://img.shields.io/badge/HCL-F7DF1E?style=for-the-badge&logo=hcl&logoColor=black"> 
-  <img src="https://img.shields.io/badge/YAML-F7DF1E?style=for-the-badge&logo=yaml&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white">   
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white"> 
+  <img src="https://img.shields.io/badge/HCL-000000?style=for-the-badge&logo=hcl&logoColor=white"> 
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
 <h4> Libraries </h4>
 <span>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/React-4EA94B?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-4EA94B?style=for-the-badge&logo=yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-4EA94B?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/asdf-4EA94B?style=for-the-badge&logo=asdf&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Nextjs-FF2D20?style=for-the-badge&logo=nextjs&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white">
-  <img src="https://img.shields.io/badge/Nestjs-FF2D20?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-2C8EBB?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-07405E?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-07405E?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Nestjs-07405E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-07405E?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-07405E?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/Oracle-00000F?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MS_SQL_SERVER-00000F?style=for-the-badge&logo=mssqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Cassandra-4EA94B?style=for-the-badge&logo=cassandra&logoColor=white">
-  <img src="https://img.shields.io/badge/DynamoDB-07405E?style=for-the-badge&logo=awsdynamodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-07405E?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-FCC624?style=for-the-badge&logo=oracle&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL_SERVER-FCC624?style=for-the-badge&logo=sqlserver&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-FCC624?style=for-the-badge&logo=mongodb&logoColor=black">
+  <img src="https://img.shields.io/badge/Cassandra-FCC624?style=for-the-badge&logo=cassandra&logoColor=black">
+  <img src="https://img.shields.io/badge/DynamoDB-FCC624?style=for-the-badge&logo=awsdynamodb&logoColor=black">
+  <img src="https://img.shields.io/badge/Redis-FCC624?style=for-the-badge&logo=redis&logoColor=black">
 </span>
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_2019-0078D4?style=for-the-badge&logo=visual%20studio%20&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <h4> Operating System </h4>

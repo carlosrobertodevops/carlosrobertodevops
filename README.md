@@ -78,7 +78,7 @@
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/xCode-0078D4?style=for-the-badge&logo=xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Git_Pod-0078D4?style=for-the-badge&logo=gitpod&logoColor=white">
 
@@ -102,7 +102,7 @@
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/VMware-5E5C5C?style=for-the-badge&logo=vmware&logoColor=white">
-  <img src="https://img.shields.io/badge/RedHat_Open_Shift-5E5C5C?style=for-the-badge&logo=openshift&logoColor=white">
+  <img src="https://img.shields.io/badge/RedHat_Open_Shift-5E5C5C?style=for-the-badge&logo=redhat&logoColor=white">
   <img src="https://img.shields.io/badge/OKD-5E5C5C?style=for-the-badge&logo=okd&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-5E5C5C?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-5E5C5C?style=for-the-badge&logo=kubernetes&logoColor=white">

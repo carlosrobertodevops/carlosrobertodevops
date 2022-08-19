@@ -25,6 +25,7 @@
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=go&logoColor=black"> 
   <img src="https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=dart&logoColor=black"> 

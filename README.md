@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Carlos Roberto CEO of optydev-io.xyz</h1>
+<h1 align="center">Hi 👋, I'm Me. Carlos Roberto is DevSecOps</h1>
 <h3 align="center"> (Me) Master of Software Engineering and DevOps</h3>
 
 - 💬 Ask me about **Me. Eng. Soft in Spain (EURO), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**

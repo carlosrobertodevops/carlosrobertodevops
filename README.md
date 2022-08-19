@@ -120,15 +120,17 @@
   <img src="https://img.shields.io/badge/Vault-5E5C5C?style=for-the-badge&logo=vault&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-5E5C5C?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Elastic_Stack-5E5C5C?style=for-the-badge&logo=elasticstack&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-5E5C5C?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-5E5C5C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-5E5C5C?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-5E5C5C?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/React_Router-5E5C5C?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-5E5C5C?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-5E5C5C?style=for-the-badge&logo=fontawesome&logoColor=white">
+  
 </span>
   
-<h4> Projects and Prototyping Tool </h4>
+<h4> Projects and Prototyping Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/MS_Visio-9370DB?style=for-the-badge&logo=microsoftvisio&logoColor=white">
   <img src="https://img.shields.io/badge/MS_Project-9370DB?style=for-the-badge&logo=microsoftproject&logoColor=white">
@@ -137,7 +139,6 @@
   <img src="https://img.shields.io/badge/Lucidchart-9370DB?style=for-the-badge&logo=lucidchart&logoColor=white">
   <img src="https://img.shields.io/badge/Draw.io-9370DB?style=for-the-badge&logo=draw.io&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracker-9370DB?style=for-the-badge&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/MS_Project-9370DB?style=for-the-badge&logo=msproject&logoColor=white"> 
 </span>
 <br>
 <br>

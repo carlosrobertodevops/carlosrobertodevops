@@ -10,7 +10,7 @@
 
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>
 <span>
-  <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=amazon&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/AZURE-563D7C?style=for-the-badge&logo=msazure&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-563D7C?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/OCP-563D7C?style=for-the-badge&logo=oracle&logoColor=white">
@@ -38,34 +38,31 @@
 
 <h4> Libraries </h4>
 <span>
-  <img src="https://img.shields.io/badge/React-4EA94B?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Yarn-4EA94B?style=for-the-badge&logo=yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-4EA94B?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/OH_MY_ZSH-4EA94B?style=for-the-badge&logo=ohmyzsh&logoColor=white">
-  <img src="https://img.shields.io/badge/DRACULA_THEMES-4EA94B?style=for-the-badge&logo=dracula&logoColor=white">
-  <img src="https://img.shields.io/badge/asdf-4EA94B?style=for-the-badge&logo=asdf&logoColor=white">
+  <img src="https://img.shields.io/badge/React-4EA94B?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Yarn-4EA94B?style=for-the-badge&logo=yarn&logoColor=black">
+  <img src="https://img.shields.io/badge/NPM-4EA94B?style=for-the-badge&logo=npm&logoColor=black">
+  <img src="https://img.shields.io/badge/OH_MY_ZSH-4EA94B?style=for-the-badge&logo=ohmyzsh&logoColor=black">
+  <img src="https://img.shields.io/badge/DRACULA_THEMES-4EA94B?style=for-the-badge&logo=dracula&logoColor=black">
+  <img src="https://img.shields.io/badge/asdf-4EA94B?style=for-the-badge&logo=asdf&logoColor=black">
 </span>
 
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Next.js-07405E?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphQL-07405E?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Nestjs-07405E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-07405E?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-07405E?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-07405E?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Serverless_Framework-07405E?style=for-the-badge&logo=serverless&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-07405E?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
 <h4> CI & CD </h4>
 <span>
-  <img src="https://img.shields.io/badge/Jenkins-9400D3?style=for-the-badge&logo=jenckins&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-9400D3?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Travis_CI-9400D3?style=for-the-badge&logo=travis&logoColor=white">
-  <img src="https://img.shields.io/badge/Gitlab_CI-9400D3?style=for-the-badge&logo=gitlabci&logoColor=white">
+  <img src="https://img.shields.io/badge/Gitlab_CI-9400D3?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-9400D3?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-9400D3?style=for-the-badge&logo=bitbucketpipelines&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-9400D3?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/AWS_CodePipeline-9400D3?style=for-the-badge&logo=awscodepipelined&logoColor=white">
-  
-  
 </span>
 
 <h4> Databases </h4>
@@ -73,8 +70,11 @@
   <img src="https://img.shields.io/badge/Oracle-FCC624?style=for-the-badge&logo=oracle&logoColor=black">
   <img src="https://img.shields.io/badge/SQL_SERVER-FCC624?style=for-the-badge&logo=sqlserver&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-FCC624?style=for-the-badge&logo=mongodb&logoColor=black">
+  <img src="https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Cassandra-FCC624?style=for-the-badge&logo=cassandra&logoColor=black">
-  <img src="https://img.shields.io/badge/DynamoDB-FCC624?style=for-the-badge&logo=awsdynamodb&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-FCC624?style=for-the-badge&logo=postgres&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS_DynamoDB-FCC624?style=for-the-badge&logo=amazondynamodb&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS_RDS-FCC624?style=for-the-badge&logo=amazonrds&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-FCC624?style=for-the-badge&logo=redis&logoColor=black">
 </span>
 
@@ -87,7 +87,7 @@
 
 <h4> Operating System and Infra </h4>
 <span>
-  <img src="https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=black">
+  <img src="https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/RedHat_CoreOS-FFFFFF?style=for-the-badge&logo=redhat&logoColor=black">
   <img src="https://img.shields.io/badge/Fedora_CoreOS-FFFFFF?style=for-the-badge&logo=fedora&logoColor=black">
@@ -108,8 +108,8 @@
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/VMware-5E5C5C?style=for-the-badge&logo=vmware&logoColor=white">
-  <img src="https://img.shields.io/badge/RedHat_Open_Shift-5E5C5C?style=for-the-badge&logo=redhat&logoColor=white">
-  <img src="https://img.shields.io/badge/OKD-5E5C5C?style=for-the-badge&logo=okd&logoColor=white">
+  <img src="https://img.shields.io/badge/RedHat_Open_Shift-5E5C5C?style=for-the-badge&logo=redhatopenshift&logoColor=white">
+  <img src="https://img.shields.io/badge/OKD-5E5C5C?style=for-the-badge&logo=redhatopenshift&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-5E5C5C?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-5E5C5C?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Ansible-5E5C5C?style=for-the-badge&logo=ansible&logoColor=white">
@@ -119,6 +119,7 @@
   <img src="https://img.shields.io/badge/Packer-5E5C5C?style=for-the-badge&logo=packer&logoColor=white">
   <img src="https://img.shields.io/badge/Vault-5E5C5C?style=for-the-badge&logo=vault&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-5E5C5C?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Rabbit_MQ-5E5C5C?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Elastic_Stack-5E5C5C?style=for-the-badge&logo=elasticstack&logoColor=white">
   <img src="https://img.shields.io/badge/Prometheus-5E5C5C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-5E5C5C?style=for-the-badge&logo=postman&logoColor=white">

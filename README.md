@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Carlos Roberto CEO of optydev-io.xyz</h1>
 <h3 align="center"> (Me) Master of Software Engineering and DevOps</h3>
 
-- 💬 Ask me about **Me. Eng. Soft in Espanha, devsecops, clouds, Software Engineering frontend, backend, security, software architect, good practices!**
+- 💬 Ask me about **Me. Eng. Soft in Spain (EURO), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=golang&logoColor=black"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">

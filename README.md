@@ -28,23 +28,32 @@ Here are some ideas to get you started:
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=golang&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=go&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=dart&logoColor=black"> 
+  <img src="https://img.shields.io/badge/HCL-F7DF1E?style=for-the-badge&logo=hcl&logoColor=black"> 
+  <img src="https://img.shields.io/badge/YAML-F7DF1E?style=for-the-badge&logo=yaml&logoColor=black"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
-<h4> Frameworks </h4>
+<h4> Libraries </h4>
 <span>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</span>
+
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/Nextjs-FF2D20?style=for-the-badge&logo=nextjs&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white">
+   <img src="https://img.shields.io/badge/Nestjs-FF2D20?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-2C8EBB?style=for-the-badge&logo=flutter&logoColor=white">
+
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>

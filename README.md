@@ -1,18 +1,3 @@
-<!--
-**carlosrobertodevops/carlosrobertodevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Carlos Roberto </h1>
 <h3 align="center"> (Me) Master of Software Engineering and DevOps</h3>
 
@@ -105,6 +90,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/RedHat_Open_Shift-F05032?style=for-the-badge&logo=openshift&logoColor=white">
   <img src="https://img.shields.io/badge/OKD-F05032?style=for-the-badge&logo=okd&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-F05032?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Ansible-F05032?style=for-the-badge&logo=ansible&logoColor=white">
   <img src="https://img.shields.io/badge/PodMan-F05032?style=for-the-badge&logo=podman&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-F05032?style=for-the-badge&logo=terraform&logoColor=white">

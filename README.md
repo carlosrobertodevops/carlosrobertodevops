@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Roberto </h1>
-<h3 align="center"> (Me) Master of Software Engineering and DevOps</h3>
+<h2 align="center"> (Me) Master of Software Engineering and DevOps</h3>
 
 - 💬 Ask me about **Me. Eng. Soft in Spain (EURO), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**
 
@@ -10,9 +10,10 @@
   <a href="https://t.me/+5582982101312" target="_blank"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white">
 </span>
 <br>
+    
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<br>
 
+<br>
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>
 <span>
   <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -102,8 +103,8 @@
   <img src="https://img.shields.io/badge/VMWare_vSphere-FFFFFF?style=for-the-badge&logo=vmware&logoColor=black">
   <img src="https://img.shields.io/badge/VMWare_ESXi-FFFFFF?style=for-the-badge&logo=vmware&logoColor=black">
   <img src="https://img.shields.io/badge/VirtualBox-FFFFFF?style=for-the-badge&logo=virtualbox&logoColor=black">
-  <img src="https://img.shields.io/badge/oVirt-FFFFFF?style=for-the-badge&logo=opencontainerinitiative&logoColor=black">
-  <img src="https://img.shields.io/badge/Hyper_-_V-FFFFFF?style=for-the-badge&logo=hyper&logoColor=black">
+  <img src="https://img.shields.io/badge/oVirt-FFFFFF?style=for-the-badge&logo=virtualbox&logoColor=black">
+  <img src="https://img.shields.io/badge/Hyper_V-FFFFFF?style=for-the-badge&logo=virtualbox&logoColor=black">
 </span>
   
 <h4> HUBs </h4>

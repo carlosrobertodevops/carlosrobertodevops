@@ -4,14 +4,20 @@
 - 💬 Ask me about **Me. Eng. Soft in Spain (EURO), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/carlos-roberto-devops" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"></a></p
+<span>
+  <a href="https://www.linkedin.com/in/carlos-roberto-devops" target="_blank"><img src="https://img.shields.io/badge/Linkedin-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.twitter.com/carlosrobertodevops" target="_blank"><img src="https://img.shields.io/badge/Twitter-00BFFF?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://t.me/+5582982101312" target="_blank"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white">
+</span>
 
+  <br>
 # Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
+<br>
+  
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>
 <span>
   <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AZURE-563D7C?style=for-the-badge&logo=msazure&logoColor=white">
+  <img src="https://img.shields.io/badge/AZURE-563D7C?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-563D7C?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/OCP-563D7C?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/IBM_CLOUD-563D7C?style=for-the-badge&logo=ibmcloud&logoColor=white">
@@ -38,12 +44,12 @@
 
 <h4> Libraries </h4>
 <span>
-  <img src="https://img.shields.io/badge/React-4EA94B?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Yarn-4EA94B?style=for-the-badge&logo=yarn&logoColor=black">
-  <img src="https://img.shields.io/badge/NPM-4EA94B?style=for-the-badge&logo=npm&logoColor=black">
-  <img src="https://img.shields.io/badge/OH_MY_ZSH-4EA94B?style=for-the-badge&logo=ohmyzsh&logoColor=black">
-  <img src="https://img.shields.io/badge/DRACULA_THEMES-4EA94B?style=for-the-badge&logo=dracula&logoColor=black">
-  <img src="https://img.shields.io/badge/asdf-4EA94B?style=for-the-badge&logo=asdf&logoColor=black">
+  <img src="https://img.shields.io/badge/React-4EA94B?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-4EA94B?style=for-the-badge&logo=yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-4EA94B?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/OH_MY_ZSH-4EA94B?style=for-the-badge&logo=ohmyzsh&logoColor=white">
+  <img src="https://img.shields.io/badge/DRACULA_THEMES-4EA94B?style=for-the-badge&logo=dracula&logoColor=white">
+  <img src="https://img.shields.io/badge/asdf-4EA94B?style=for-the-badge&logo=asdf&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -70,7 +76,7 @@
   <img src="https://img.shields.io/badge/Oracle-FCC624?style=for-the-badge&logo=oracle&logoColor=black">
   <img src="https://img.shields.io/badge/SQL_SERVER-FCC624?style=for-the-badge&logo=sqlserver&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-FCC624?style=for-the-badge&logo=mongodb&logoColor=black">
-  <img src="https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Cassandra-FCC624?style=for-the-badge&logo=cassandra&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-FCC624?style=for-the-badge&logo=postgres&logoColor=black">
   <img src="https://img.shields.io/badge/AWS_DynamoDB-FCC624?style=for-the-badge&logo=amazondynamodb&logoColor=black">
@@ -105,19 +111,19 @@
   <img src="https://img.shields.io/badge/Bitbucket-F05032?style=for-the-badge&logo=bitbucket&logoColor=white">
 </span>
   
-<h4> Other Tools and Technologies </h4>
+<h4> Other the bests Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/VMware-5E5C5C?style=for-the-badge&logo=vmware&logoColor=white">
-  <img src="https://img.shields.io/badge/RedHat_Open_Shift-5E5C5C?style=for-the-badge&logo=redhatopenshift&logoColor=white">
-  <img src="https://img.shields.io/badge/OKD-5E5C5C?style=for-the-badge&logo=redhatopenshift&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-5E5C5C?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-5E5C5C?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Ansible-5E5C5C?style=for-the-badge&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/PodMan-5E5C5C?style=for-the-badge&logo=podman&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-5E5C5C?style=for-the-badge&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/Vagrant-5E5C5C?style=for-the-badge&logo=vagrant&logoColor=white">
-  <img src="https://img.shields.io/badge/Packer-5E5C5C?style=for-the-badge&logo=packer&logoColor=white">
-  <img src="https://img.shields.io/badge/Vault-5E5C5C?style=for-the-badge&logo=vault&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-778899?style=for-the-badge&logo=vmware&logoColor=black">
+  <img src="https://img.shields.io/badge/RedHat_Open_Shift-778899?style=for-the-badge&logo=redhatopenshift&logoColor=black">
+  <img src="https://img.shields.io/badge/OKD-778899?style=for-the-badge&logo=redhatopenshift&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-778899?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Kubernetes-778899?style=for-the-badge&logo=kubernetes&logoColor=black">
+  <img src="https://img.shields.io/badge/Ansible-778899?style=for-the-badge&logo=ansible&logoColor=black">
+  <img src="https://img.shields.io/badge/PodMan-778899?style=for-the-badge&logo=podman&logoColor=black">
+  <img src="https://img.shields.io/badge/Terraform-778899?style=for-the-badge&logo=terraform&logoColor=black">
+  <img src="https://img.shields.io/badge/Vagrant-778899?style=for-the-badge&logo=vagrant&logoColor=black">
+  <img src="https://img.shields.io/badge/Packer-778899?style=for-the-badge&logo=packer&logoColor=black">
+  <img src="https://img.shields.io/badge/Vault-778899?style=for-the-badge&logo=vault&logoColor=black">
   <img src="https://img.shields.io/badge/Apache_Kafka-5E5C5C?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Rabbit_MQ-5E5C5C?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Elastic_Stack-5E5C5C?style=for-the-badge&logo=elasticstack&logoColor=white">
@@ -128,7 +134,6 @@
   <img src="https://img.shields.io/badge/React_Router-5E5C5C?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-5E5C5C?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-5E5C5C?style=for-the-badge&logo=fontawesome&logoColor=white">
-  
 </span>
   
 <h4> Projects and Prototyping Tools </h4>

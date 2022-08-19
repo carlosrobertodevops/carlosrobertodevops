@@ -9,11 +9,10 @@
   <a href="https://www.twitter.com/carlosrobertodevops" target="_blank"><img src="https://img.shields.io/badge/Twitter-00BFFF?style=for-the-badge&logo=twitter&logoColor=white">
   <a href="https://t.me/+5582982101312" target="_blank"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white">
 </span>
-
-  <br>
-# Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <br>
-  
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<br>
+
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>
 <span>
   <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -48,8 +47,8 @@
   <img src="https://img.shields.io/badge/Yarn-4EA94B?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-4EA94B?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/OH_MY_ZSH-4EA94B?style=for-the-badge&logo=ohmyzsh&logoColor=white">
-  <img src="https://img.shields.io/badge/DRACULA_THEMES-4EA94B?style=for-the-badge&logo=dracula&logoColor=white">
-  <img src="https://img.shields.io/badge/asdf-4EA94B?style=for-the-badge&logo=asdf&logoColor=white">
+  <img src="https://img.shields.io/badge/DRACULA_THEMES-4EA94B?style=for-the-badge&logo=testinglibrary&logoColor=white">
+  <img src="https://img.shields.io/badge/asdf-4EA94B?style=for-the-badge&logo=testinglibrary&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -68,7 +67,7 @@
   <img src="https://img.shields.io/badge/Gitlab_CI-9400D3?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-9400D3?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket_Pipelines-9400D3?style=for-the-badge&logo=bitbucket&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_CodePipeline-9400D3?style=for-the-badge&logo=awscodepipelined&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_CodePipeline-9400D3?style=for-the-badge&logo=amazonaws&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -77,8 +76,8 @@
   <img src="https://img.shields.io/badge/SQL_SERVER-FCC624?style=for-the-badge&logo=sqlserver&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-FCC624?style=for-the-badge&logo=mongodb&logoColor=black">
   <img src="https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Cassandra-FCC624?style=for-the-badge&logo=cassandra&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-FCC624?style=for-the-badge&logo=postgres&logoColor=black">
+  <img src="https://img.shields.io/badge/Cassandra-FCC624?style=for-the-badge&logo=apachecassandra&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-FCC624?style=for-the-badge&logo=postgresql&logoColor=black">
   <img src="https://img.shields.io/badge/AWS_DynamoDB-FCC624?style=for-the-badge&logo=amazondynamodb&logoColor=black">
   <img src="https://img.shields.io/badge/AWS_RDS-FCC624?style=for-the-badge&logo=amazonrds&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-FCC624?style=for-the-badge&logo=redis&logoColor=black">
@@ -91,16 +90,20 @@
 <img src="https://img.shields.io/badge/xCode-0078D4?style=for-the-badge&logo=xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Git_Pod-0078D4?style=for-the-badge&logo=gitpod&logoColor=white">
 
-<h4> Operating System and Infra </h4>
+<h4> Operating System (OS e Servers )and Infra (WMs) </h4>
 <span>
   <img src="https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/RedHat_CoreOS-FFFFFF?style=for-the-badge&logo=redhat&logoColor=black">
   <img src="https://img.shields.io/badge/Fedora_CoreOS-FFFFFF?style=for-the-badge&logo=fedora&logoColor=black">
+  <img src="https://img.shields.io/badge/CentOS-FFFFFF?style=for-the-badge&logo=centos&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=black">
   <img src="https://img.shields.io/badge/VMWare_vCenter-FFFFFF?style=for-the-badge&logo=vmware&logoColor=black">
   <img src="https://img.shields.io/badge/VMWare_vSphere-FFFFFF?style=for-the-badge&logo=vmware&logoColor=black">
   <img src="https://img.shields.io/badge/VMWare_ESXi-FFFFFF?style=for-the-badge&logo=vmware&logoColor=black">
+  <img src="https://img.shields.io/badge/VirtualBox-FFFFFF?style=for-the-badge&logo=virtualbox&logoColor=black">
+  <img src="https://img.shields.io/badge/oVirt-FFFFFF?style=for-the-badge&logo=opencontainerinitiative&logoColor=black">
+  <img src="https://img.shields.io/badge/Hyper_-_V-FFFFFF?style=for-the-badge&logo=hyper&logoColor=black">
 </span>
   
 <h4> HUBs </h4>
@@ -116,8 +119,10 @@
   <img src="https://img.shields.io/badge/VMware-778899?style=for-the-badge&logo=vmware&logoColor=black">
   <img src="https://img.shields.io/badge/RedHat_Open_Shift-778899?style=for-the-badge&logo=redhatopenshift&logoColor=black">
   <img src="https://img.shields.io/badge/OKD-778899?style=for-the-badge&logo=redhatopenshift&logoColor=black">
+  <img src="https://img.shields.io/badge/Rancher-778899?style=for-the-badge&logo=rancher&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-778899?style=for-the-badge&logo=docker&logoColor=black">
-  <img src="https://img.shields.io/badge/Kubernetes-778899?style=for-the-badge&logo=kubernetes&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-778899?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Composer-778899?style=for-the-badge&logo=composer&logoColor=black">
   <img src="https://img.shields.io/badge/Ansible-778899?style=for-the-badge&logo=ansible&logoColor=black">
   <img src="https://img.shields.io/badge/PodMan-778899?style=for-the-badge&logo=podman&logoColor=black">
   <img src="https://img.shields.io/badge/Terraform-778899?style=for-the-badge&logo=terraform&logoColor=black">

@@ -5,7 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carlos-roberto-devops" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="ucidttyn-u8oda8ylibwy3ww" height="80" width="80" />
+<a href="https://www.linkedin.com/in/carlos-roberto-devops" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
@@ -13,9 +14,9 @@
 
 <h4> Cloud Computing and Skills</h4>
 <span>
-  <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=aws&logoColor=black">
-  <img src="https://img.shields.io/badge/AZURE-563D7C?style=for-the-badge&logo=azurecloud&logoColor=black">
-  <img src="https://img.shields.io/badge/GCP-563D7C?style=for-the-badge&logo=google%20cloud%20plataform&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/AZURE-563D7C?style=for-the-badge&logo=azurecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-563D7C?style=for-the-badge&logo=google%20cloud%20plataform&logoColor=white">
   <img src="https://img.shields.io/badge/OCP-563D7C?style=for-the-badge&logo=ocp&logoColor=white">
   <img src="https://img.shields.io/badge/IBM_CLOUD-563D7C?style=for-the-badge&logo=ibmcloud&logoColor=white">
   <img src="https://img.shields.io/badge/WMWare_Cloud-563D7C?style=for-the-badge&logo=wmwarecloud&logoColor=white">
@@ -57,11 +58,11 @@
 
 <h4> CI & CD </h4>
 <span>
-  <img src="https://img.shields.io/badge/Jenkins-F05032?style=for-the-badge&logo=jenckins&logoColor=white">
-  <img src="https://img.shields.io/badge/Travis_CI-F05032?style=for-the-badge&logo=travis&logoColor=white">
-  <img src="https://img.shields.io/badge/Gitlab_CI-F05032?style=for-the-badge&logo=gitlabci&logoColor=white">
-  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-F05032?style=for-the-badge&logo=bitbucketpipelines&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_CodePipeline-F05032?style=for-the-badge&logo=awscodepipelined&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-9400D3?style=for-the-badge&logo=jenckins&logoColor=white">
+  <img src="https://img.shields.io/badge/Travis_CI-9400D3?style=for-the-badge&logo=travis&logoColor=white">
+  <img src="https://img.shields.io/badge/Gitlab_CI-9400D3?style=for-the-badge&logo=gitlabci&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-9400D3?style=for-the-badge&logo=bitbucketpipelines&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_CodePipeline-9400D3?style=for-the-badge&logo=awscodepipelined&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -121,14 +122,14 @@
   
 <h4> Projects and Prototyping Tool </h4>
 <span>
-  <img src="https://img.shields.io/badge/MS_Visio-5E5C5C?style=for-the-badge&logo=microsft&logoColor=white">
-  <img src="https://img.shields.io/badge/MS_Project-5E5C5C?style=for-the-badge&logo=microsft&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-5E5C5C?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_XD-5E5C5C?style=for-the-badge&logo=adobexd&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Lucidchart-5E5C5C?style=for-the-badge&logo=lucidchart&logoColor=white">
-  <img src="https://img.shields.io/badge/Draw.io-5E5C5C?style=for-the-badge&logo=draw.io&logoColor=white">
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracker-5E5C5C?style=for-the-badge&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/MS_Project-5E5C5C?style=for-the-badge&logo=msproject&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MS_Visio-9370DB?style=for-the-badge&logo=microsft&logoColor=white">
+  <img src="https://img.shields.io/badge/MS_Project-9370DB?style=for-the-badge&logo=microsft&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-9370DB?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_XD-9370DB?style=for-the-badge&logo=adobexd&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Lucidchart-9370DB?style=for-the-badge&logo=lucidchart&logoColor=white">
+  <img src="https://img.shields.io/badge/Draw.io-9370DB?style=for-the-badge&logo=draw.io&logoColor=white">
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracker-9370DB?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/MS_Project-9370DB?style=for-the-badge&logo=msproject&logoColor=white"> 
 </span>
 <br>
 <br>

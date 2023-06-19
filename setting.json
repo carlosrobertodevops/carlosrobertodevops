@@ -1,1 +1,126 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.fontFamily": "'Fira Code'",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.env.windows": {},
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.automationProfile.windows": {
+        "args": ["C:\\ProgramData\\anaconda3\\Scripts\\activate.bat"]
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.external.windowsExec": "%windir%\\System32\\cmd.exe C:\\ProgramData\\anaconda3\\Scripts\\activate.bat",
+    "terminal.integrated.cursorStyle": "line",
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "symbols",
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-markdown.preview": true
+    },
+    "installationPath": "c:\\Users\\inteligencia\\Documents\\ArcGIS",
+    "redhat.telemetry.enabled": true,
+    "powershell.integratedConsole.showOnStartup": true,
+    "powershell.startAutomatically": false,
+    "python.terminal.launchArgs": [
+    ],
+    "python.defaultInterpreterPath": "C\\ProgramData\\anaconda3\\python.exe",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "git-autoconfig.configList": [
+        {
+            "user.email": "carlos.roberto.devops@gmail.com",
+            "user.name": "carlosrobertodevops"
+        }
+    ],
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    },
+    "python.pydev.java.home": "c:\\Program Files\\Java\\jre1.8.0_361",
+    "cSpell.enabled": false,
+    "cSpell.ignoreWords": [
+        "Influencias"
+    ],
+    "terminal.integrated.env.linux": {},
+    "notebook.lineNumbers": "on",
+    "notebook.consolidatedRunButton": true,
+    "notebook.markup.fontSize": 12,
+    "notebook.logging": true,
+    "workbench.editorLargeFileConfirmation": 100000,
+    //"installationPathPlayer": "C:\\Users\\inteligencia\\Applications\\ArcGIS\\AppStudioPlayer",
+    "notebook.output.lineHeight": 0,
+    "notebook.output.fontSize": 12,
+    "notebook.output.fontFamily": "'Fira Code'",
+    "notebook.output.scrolling": true,
+    "notebook.diff.overviewRuler": true,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.output.wordWrap": true,
+    "python.diagnostics.sourceMapsEnabled": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.enableExtendedKernelCompletions": true,
+    "jupyter.askForKernelRestart": true,
+    "git.confirmSync": false,
+    "editor.accessibilitySupport": "off",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "symbols.hidesExplorerArrows": false,
+    "indentRainbow.ignoreErrorLanguages": [
+        "markdown"
+    ],
+    "yaml.customTags": [
+        "!And",
+        "!And sequence",
+        "!If",
+        "!If sequence",
+        "!Not",
+        "!Not sequence",
+        "!Equals",
+        "!Equals sequence",
+        "!Or",
+        "!Or sequence",
+        "!FindInMap",
+        "!FindInMap sequence",
+        "!Base64",
+        "!Join",
+        "!Join sequence",
+        "!Cidr",
+        "!Ref",
+        "!Sub",
+        "!Sub sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!ImportValue sequence",
+        "!Select",
+        "!Select sequence",
+        "!Split",
+        "!Split sequence"
+    ],
 
+    "git.terminalGitEditor": true,
+    "installationPathPlayer": "C:\\Users\\carlo\\Applications\\ArcGIS\\AppStudioPlayer",
+    "editor.defaultColorDecorators": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.autohide": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "editor.tabSize": 2,
+      // Using the light mode
+    "indentRainbow.indicatorStyle": "light",
+    // we use a simple 1 pixel wide line
+    "indentRainbow.lightIndicatorStyleLineWidth": 1,
+    // the same colors as above but more visible
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.3)",
+        "rgba(127,255,127,0.3)",
+        "rgba(255,127,255,0.3)",
+    ]
+}

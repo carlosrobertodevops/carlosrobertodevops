@@ -1,1 +1,339 @@
+{
 
+    "dart.env": {
+        "FLUTTER_DESKTOP_EMBEDDING": true
+    },
+
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "team.showWelcomeMessage": false,
+    "gitlens.views.repositories.files.layout": "tree",
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command",
+        "push:command"
+    ],
+    "gitlens.gitCommands.closeOnFocusOut": true,
+    "dart.flutterHotRestartOnSave": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterGutterIcons": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "workbench.startupEditor": "none",
+    "tabnine.experimentalAutoImports": true,
+    "guides.enabled": false,
+    "redhat.telemetry.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true,
+    },
+   "editor.formatOnSave": true,
+   "editor.codeActiveOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true
+},
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": false,
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.linux": "/home/carlosroberto/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vscode-kubernetes.helm-path.linux": "/home/carlosroberto/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.minikube-path.windows": "C:\\Users\\tenro\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+        "vscode-kubernetes.helm-path.windows": "C:\\Users\\tenro\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.kubectl-path.linux": "/home/carlosroberto/.vs-kubernetes/tools/kubectl/kubectl"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "yaml.customTags": [
+        "!And",
+        "!And sequence",
+        "!If",
+        "!If sequence",
+        "!Not",
+        "!Not sequence",
+        "!Equals",
+        "!Equals sequence",
+        "!Or",
+        "!Or sequence",
+        "!FindInMap",
+        "!FindInMap sequence",
+        "!Base64",
+        "!Join",
+        "!Join sequence",
+        "!Cidr",
+        "!Ref",
+        "!Sub",
+        "!Sub sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!ImportValue sequence",
+        "!Select",
+        "!Select sequence",
+        "!Split",
+        "!Split sequence"
+    ],
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "yaml.schemas": {},
+    "json.schemas": [],
+    "editor.renderControlCharacters": true,
+    "editor.tabSize": 2,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontSize": 12,
+    "git.enableSmartCommit": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll": true
+    },
+    "cSpell.enabled": true,
+    "cSpell.language": "en,pt,pt_BR",
+    "colorize.hide_current_line_decorations": false,
+    "colorize.include": [
+        ".tsx",
+        ".jsx",
+        ".ts",
+        ".js"
+    ],
+    "colorize.languages": [
+        "typescriptreact",
+        "javascriptreact",
+        "javascript",
+        "typescript",
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "pcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "json",
+        "jsonc",
+        "yaml"
+    ],
+    "colorize.colorized_colors": [
+        "HEXA",
+        "RGB",
+        "HSL"
+    ],
+    "colorize.enable_search_variables": false,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "material-icon-theme.folders.theme": "classic",
+    "material-icon-theme.folders.color": "#6273a6",
+    "bracket-pair-colorizer-2.colors": [
+        "#8BE9FD",
+        "#50FA7B",
+        "#FFB86C",
+        "#FF79C6",
+        "#BD93F9",
+        "#F1FA8C",
+      ],
+    "bracket-pair-colorizer-2.colorMode": "Consecutive",
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": false,
+    "bracket-pair-colorizer-2.forceIterationColorCycle": false,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.showBracketsInRuler": true,
+    "bracket-pair-colorizer-2.showVerticalScopeLine": false,
+    "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+    "bracket-pair-colorizer-2.unmatchedScopeColor": "#FF5555",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--errors-only",
+    ],
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.pythonPath": "/bin/python3.8",
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.testing.unittestEnabled": true,
+    "files.associations": {
+        "*.html": "html",
+        "**/templates/*.html": "django-html",
+        "**/templates/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+        "*.tf": "terraform",
+        "*.tfvar": "terraform",
+        "*.tpl": "terraform",
+        "*.md": "markdown"
+    },
+    "emmet.syntaxProfiles": { "javascript": "jsx" },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "mssql.connections": [
+        {
+            "server": "{{put-server-name-here}}",
+            "database": "{{put-database-name-here}}",
+            "user": "{{put-username-here}}",
+            "password": "{{put-password-here}}"
+        }
+    ],
+    "sqlDatabaseProjects.netCoreDowngradeDoNotShow": true,
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        {
+            "extensionId": "vscodeintellicode-insiders",
+            "path": "/usr/local/share/dotnet/dotnet"
+        }
+    ],
+    "[typescript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "explorer.confirmDelete": false,
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "git-autoconfig.configList": [
+        {
+            "user.email": "carlos.roberto.devops@gmail.com",
+            "user.name": "carlosrobertodevops"
+        },
+        {
+            "user.email": "carlosrobertodevops@gmail.com",
+            "user.name": "carlosrobertodevops"
+        },
+        {
+            "user.email": "ti.assii.sspal@gmail.com",
+            "user.name": "ti-assii-sspal"
+        },
+        {
+            "user.email": "optydev.io.courses@gmail.com",
+            "user.name": "optydeviocourses"
+        },
+        {}
+    ],
+    "bracketPairColorizer.depreciation-notice": false,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "python.defaultInterpreterPath": "C:\\ProgramData\\anaconda3\\python.exe",
+    "editor.linkedEditing": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "npm.enableTouchbar": true,
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#dd0531"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#61dafb"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Svelte Orange",
+            "value": "#ff3d00"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "editor.accessibilitySupport": "off",
+    "git-autoconfig.ignoreRootList": [
+        "/Volumes/ROBERTO-CD2/Cursos/aws/nextjs/next-aws"
+    ],
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "aws.profile": "profile:default",
+    "terminal.explorerKind": "external",
+    "blockman.n01LineHeight": 0,
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "editor.inlayHints.enabled": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "editor.suggest.showMethods": true,
+    "editor.suggest.preview": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.snippetSuggestions": "top",
+    "editor.fontFamily": "Fira Code-Regular",
+//    "editor.fontTipe": "Fira Code",
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "settingsSync.ignoredExtensions": [
+    ],
+    "terminal.integrated.automationProfile.osx": {
+        "terminal.integrated.shell.macos": "/bin/zsh",
+    },
+    "editor.minimap.autohide": true,
+    "rsp-ui.enableStartServerOnActivation": [
+        {
+            "id": "redhat.vscode-server-connector",
+            "name": "Red Hat Server Connector",
+            "startOnActivation": true
+        }
+    ],
+    "sync.gist": "428116448e6dd5300635ef2d5ec6a9ef",
+    "tabnine.disableFileRegex": [
+
+    ],
+    "workbench.colorTheme": "Dracula Soft",
+    "installationPathPlayer": "C:\\Users\\carlo\\Applications\\ArcGIS\\AppStudioPlayer",
+    "installationPath": "c:\\Program Files\\ArcGIS",
+    "workbench.iconTheme": "symbols",
+    "notebook.consolidatedRunButton": true,
+    "notebook.diff.overviewRuler": true,
+    "notebook.markup.fontSize": 12,
+    "notebook.output.fontSize": 12,
+    "notebook.output.scrolling": true,
+    "notebook.editorOptionsCustomizations": {
+
+    },
+    "notebook.formatOnSave.enabled": true,
+    "notebook.output.wordWrap": true,
+    "python.formatting.provider": "none",
+    "notebook.output.fontFamily": "Fira Code",
+    "git.confirmSync": false,
+    "workbench.editorLargeFileConfirmation": 1000,
+    "notebook.lineNumbers": "on",
+    "editor.largeFileOptimizations": false,
+    "symbols.hidesExplorerArrows": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\cmd.exe C:\\ProgramData\\anaconda3\\Scripts\\activate.bat",
+      // Using the light mode
+    "indentRainbow.indicatorStyle": "light",
+    // we use a simple 1 pixel wide line
+    "indentRainbow.lightIndicatorStyleLineWidth": 1,
+    // the same colors as above but more visible
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.3)",
+        "rgba(127,255,127,0.3)",
+        "rgba(255,127,255,0.3)",
+        "rgba(79,236,236,0.3)"
+    ],
+}

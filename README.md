@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Roberto </h1>
-<h2 align="center"> (Me) PhD Student of Software Engineering and DevOps</h3>
+<h2 align="center"> PhD Student of Software Engineering and DevOps</h3>
 
 - 💬 Ask me about **Me. Eng. Soft in Spain (EURO), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**
 

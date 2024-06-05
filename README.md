@@ -42,6 +42,14 @@
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
+<h4> AI </h4>
+<span>
+  <img src="https://img.shields.io/badge/MSCopilot-4EA94B?style=for-the-badge&logo=mscopilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Chatgpt-4EA94B?style=for-the-badge&logo=chatgpt&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine_Learning-4EA94B?style=for-the-badge&logo=machinelearning&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep_Learning-4EA94B?style=for-the-badge&logo=deeplearning&logoColor=white">
+</span>
+
 <h4> Libraries </h4>
 <span>
   <img src="https://img.shields.io/badge/React-4EA94B?style=for-the-badge&logo=react&logoColor=white">

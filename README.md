@@ -45,7 +45,7 @@
 <h4> AI </h4>
 <span>
   <img src="https://img.shields.io/badge/MSCopilot-4EA94B?style=for-the-badge&logo=mscopilot&logoColor=white">
-  <img src="https://img.shields.io/badge/Chatgpt-4EA94B?style=for-the-badge&logo=chatgpt&logoColor=white">
+  <img src="https://img.shields.io/badge/Chatbot-4EA94B?style=for-the-badge&logo=chatbot&logoColor=white">
   <img src="https://img.shields.io/badge/Machine_Learning-4EA94B?style=for-the-badge&logo=machinelearning&logoColor=white">
   <img src="https://img.shields.io/badge/Deep_Learning-4EA94B?style=for-the-badge&logo=deeplearning&logoColor=white">
   <img src="https://img.shields.io/badge/Neural_nets-4EA94B?style=for-the-badge&logo=neuralnet&logoColor=white"> 
@@ -149,7 +149,7 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/React_Router-5E5C5C?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-5E5C5C?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/twailwind--components-5E5C5C?style=for-the-badge&logo=twailwin-components&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-5E5C5C?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-5E5C5C?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
   

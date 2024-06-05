@@ -82,6 +82,7 @@
   <img src="https://img.shields.io/badge/AWS_DynamoDB-FCC624?style=for-the-badge&logo=amazondynamodb&logoColor=black">
   <img src="https://img.shields.io/badge/AWS_RDS-FCC624?style=for-the-badge&logo=amazonrds&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-FCC624?style=for-the-badge&logo=redis&logoColor=black">
+  <img src="https://img.shields.io/badge/Neo4j-FCC624?style=for-the-badge&logo=neo4j&logoColor=black">
 </span>
 
 <h4> IDE </h4>

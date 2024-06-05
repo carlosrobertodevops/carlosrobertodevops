@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Chatgpt-4EA94B?style=for-the-badge&logo=chatgpt&logoColor=white">
   <img src="https://img.shields.io/badge/Machine_Learning-4EA94B?style=for-the-badge&logo=machinelearning&logoColor=white">
   <img src="https://img.shields.io/badge/Deep_Learning-4EA94B?style=for-the-badge&logo=deeplearning&logoColor=white">
+  <img src="https://img.shields.io/badge/Neural_nets-4EA94B?style=for-the-badge&logo=neuralnet&logoColor=white"> 
 </span>
 
 <h4> Libraries </h4>

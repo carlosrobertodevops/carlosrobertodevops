@@ -149,6 +149,7 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/React_Router-5E5C5C?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-5E5C5C?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/twailwind--components-5E5C5C?style=for-the-badge&logo=twailwin-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-5E5C5C?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
   

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Roberto </h1>
 <h2 align="center"> Ph.D. Student of Software Engineering and DevOps (UNIB-Rich Port/Usa)</h3>
 
-- 💬 Ask me about **I'm Ph.D. Student of Eng. Software Project in Rich Cost (Esp, Fra, Ing), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**
+- 💬 Ask me about **I'm Ph.D. Student of Eng. Software Project in Musty University (USA), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**
 
 ### **Connect with me:**
 [<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/carlosrobertodevops)

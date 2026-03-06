@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Roberto </h1>
-<h2 align="center"> Ph.D. Student of Software Engineering and DevOps (UNIB-Rich Port/Usa)</h3>
+<h2 align="center"> Ph.D. Student of Project is USA </h2>
 
 - 💬 Ask me about **I'm Ph.D. Student of Eng. Software Project in Musty University (USA), Software Engineering, devsecops, clouds, frontend, backend, security, software architect, good practices!**
 

@@ -16,11 +16,11 @@
 
 <h4> AIs (Claude Code, OpenCode and more) </h4>
 <span>
-  <img src="https://img.shields.io/badge/CLAUDE-00BFFF?style=for-the-badge&logo=claude&logoColor=black"">
-  <img src="https://img.shields.io/badge/OPEN_CODE-00BFFF?style=for-the-badge&logo=opencodeai&logoColor=black"">
-  <img src="https://img.shields.io/badge/CODEX-00BFFF?style=for-the-badge&logo=openai&logoColor=black"">
-  <img src="https://img.shields.io/badge/COPILOT-00BFFF?style=for-the-badge&logo=githubcopilot&logoColor=black""> 
-  <img src="https://img.shields.io/badge/GEMINI-00BFFF?style=for-the-badge&logo=google-gemini&logoColor=black""> 
+  <img src="https://img.shields.io/badge/CLAUDE-00BFFF?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/OPEN_CODE-00BFFF?style=for-the-badge&logo=open_code&logoColor=white">
+  <img src="https://img.shields.io/badge/CODEX-00BFFF?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/COPILOT-00BFFF?style=for-the-badge&logo=githubcopilot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GEMINI-00BFFF?style=for-the-badge&logo=google-gemini&logoColor=white"> 
 </span>
 
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>

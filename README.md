@@ -18,7 +18,7 @@
 <span>
   <img src="https://img.shields.io/badge/CLAUDE-00BFFF?style=for-the-badge&logo=claude&logoColor=black">
   <img src="https://img.shields.io/badge/opencode-00BFFF?style=for-the-badge&logo=open-code&logoColor=black">
-  <img src="https://img.shields.io/badge/openaicodex-00BFFF?style=for-the-badge&logo=gpt-codex&logoColor=black">
+  <img src="https://img.shields.io/badge/codex-00BFFF?style=for-the-badge&logo=gpt-codex&logoColor=black">
   <img src="https://img.shields.io/badge/COPILOT-00BFFF?style=for-the-badge&logo=githubcopilot&logoColor=black"> 
   <img src="https://img.shields.io/badge/GEMINI-00BFFF?style=for-the-badge&logo=google-gemini&logoColor=black"> 
 </span>

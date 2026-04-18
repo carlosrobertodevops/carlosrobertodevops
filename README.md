@@ -12,16 +12,15 @@
 [<img src = "https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/+5582982101312)
    
 ## Stacks | Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
 <br>
 
 <h4> AIs (Claude Code, OpenCode and more) </h4>
 <span>
-  <img src="https://img.shields.io/badge/CLAUDE-563D7C?style=for-the-badge&logo=claude&logoColor=white">
-  <img src="https://img.shields.io/badge/OPENCODE-563D7C?style=for-the-badge&logo=opencode&logoColor=white">
-  <img src="https://img.shields.io/badge/CODEX-563D7C?style=for-the-badge&logo=gptcodex&logoColor=white">
-  <img src="https://img.shields.io/badge/COPILOT-563D7C?style=for-the-badge&logo=githubcopilot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/GEMINI-563D7C?style=for-the-badge&logo=goolegemini&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CLAUDE-00BFFF?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/OPENCODE-00BFFF?style=for-the-badge&logo=opencode&logoColor=white">
+  <img src="https://img.shields.io/badge/CODEX-00BFFF?style=for-the-badge&logo=gptcodex&logoColor=white">
+  <img src="https://img.shields.io/badge/COPILOT-00BFFF?style=for-the-badge&logo=githubcopilot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GEMINI-00BFFF?style=for-the-badge&logo=goolegemini&logoColor=white"> 
 </span>
 
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>

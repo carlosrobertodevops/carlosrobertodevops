@@ -18,7 +18,7 @@
 <span>
   <img src="https://img.shields.io/badge/CLAUDE-00BFFF?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/OPEN_CODE-00BFFF?style=for-the-badge&logo=open_code&logoColor=white">
-  <img src="https://img.shields.io/badge/CODEX-00BFFF?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/CODEX-00BFFF?style=for-the-badge&logo=open_ai&logoColor=white">
   <img src="https://img.shields.io/badge/COPILOT-00BFFF?style=for-the-badge&logo=githubcopilot&logoColor=white"> 
   <img src="https://img.shields.io/badge/GEMINI-00BFFF?style=for-the-badge&logo=google-gemini&logoColor=white"> 
 </span>
@@ -143,7 +143,6 @@
   <img src="https://img.shields.io/badge/RedHat_Open_Shift-778899?style=for-the-badge&logo=redhatopenshift&logoColor=black">
   <img src="https://img.shields.io/badge/OKD-778899?style=for-the-badge&logo=redhatopenshift&logoColor=black">
   <img src="https://img.shields.io/badge/Rancher-778899?style=for-the-badge&logo=rancher&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-778899?style=for-the-badge&logo=docker&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-778899?style=for-the-badge&logo=docker&logoColor=black">
   <img src="https://img.shields.io/badge/Composer-778899?style=for-the-badge&logo=composer&logoColor=black">
   <img src="https://img.shields.io/badge/Ansible-778899?style=for-the-badge&logo=ansible&logoColor=black">

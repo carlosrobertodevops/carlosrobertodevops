@@ -25,7 +25,7 @@
 
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>
 <span>
-  <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/AZURE-563D7C?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-563D7C?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/OCP-563D7C?style=for-the-badge&logo=oracle&logoColor=white">

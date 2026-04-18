@@ -106,6 +106,8 @@
 
 <h4> IDE </h4>
 <span>
+<img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=zed&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=cursor&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/xCode-0078D4?style=for-the-badge&logo=xcode&logoColor=white">

@@ -11,7 +11,7 @@
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/carlosrobertodevops)
 [<img src = "https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/+5582982101312)
    
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Stacks | Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <br>
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>

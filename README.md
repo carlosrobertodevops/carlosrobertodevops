@@ -17,8 +17,8 @@
 
 <h4> AIs (Claude Code, OpenCode and mor) </h4>
 <span>
-  <img src="https://img.shields.io/badge/CLAUDE-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/OPEN-CODE-563D7C?style=for-the-badge&logo=opencode&logoColor=white">
+  <img src="https://img.shields.io/badge/CLAUDE-563D7C?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/OPENCODE-563D7C?style=for-the-badge&logo=opencode&logoColor=white">
   <img src="https://img.shields.io/badge/CODEX-563D7C?style=for-the-badge&logo=codex&logoColor=white">
    <img src="https://img.shields.io/badge/GHCOPILOT-563D7C?style=for-the-badge&logo=githubcopilot&logoColor=white"> 
   <img src="https://img.shields.io/badge/GEMINI-563D7C?style=for-the-badge&logo=gemini&logoColor=white"> 

@@ -14,6 +14,16 @@
 ## Stacks | Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <br>
+
+<h4> AIs (Claude Code, OpenCode and mor) </h4>
+<span>
+  <img src="https://img.shields.io/badge/CLAUDE-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/OPEN-CODE-563D7C?style=for-the-badge&logo=opencode&logoColor=white">
+  <img src="https://img.shields.io/badge/CODEX-563D7C?style=for-the-badge&logo=codex&logoColor=white">
+   <img src="https://img.shields.io/badge/GHCOPILOT-563D7C?style=for-the-badge&logo=githubcopilot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GEMINI-563D7C?style=for-the-badge&logo=gemini&logoColor=white"> 
+</span>
+
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>
 <span>
   <img src="https://img.shields.io/badge/AWS-563D7C?style=for-the-badge&logo=amazonaws&logoColor=white">

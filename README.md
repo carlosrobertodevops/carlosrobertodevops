@@ -17,10 +17,10 @@
 <h4> AIs (Claude Code, OpenCode and more) </h4>
 <span>
   <img src="https://img.shields.io/badge/CLAUDE-00BFFF?style=for-the-badge&logo=claude&logoColor=black">
-  <img src="https://img.shields.io/badge/OPENCODE-00BFFF?style=for-the-badge&logo=opencode&logoColor=black">
-  <img src="https://img.shields.io/badge/CODEX-00BFFF?style=for-the-badge&logo=gptcodex&logoColor=black">
+  <img src="https://img.shields.io/badge/OPENCODE-00BFFF?style=for-the-badge&logo=open-code&logoColor=black">
+  <img src="https://img.shields.io/badge/CODEX-00BFFF?style=for-the-badge&logo=gpt-codex&logoColor=black">
   <img src="https://img.shields.io/badge/COPILOT-00BFFF?style=for-the-badge&logo=githubcopilot&logoColor=black"> 
-  <img src="https://img.shields.io/badge/GEMINI-00BFFF?style=for-the-badge&logo=goolegemini&logoColor=black"> 
+  <img src="https://img.shields.io/badge/GEMINI-00BFFF?style=for-the-badge&logo=google-gemini&logoColor=black"> 
 </span>
 
 <h4> Cloud Computing (IaaS, PaaS and Saas) </h4>

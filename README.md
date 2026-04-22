@@ -12,9 +12,8 @@
 [<img src = "https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/+5582982101312)
    
 ## Stacks | Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<br>
 
-<h4> AIs (Claude Code, OpenCode and more) </h4>
+<h4> AIDevOps (Claude Code, OpenCode and more) </h4>
 <span>
   <img src="https://img.shields.io/badge/CLAUDE-00BFFF?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/Open_Code-00BFFF?style=for-the-badge&logo=open_code&logoColor=white">
